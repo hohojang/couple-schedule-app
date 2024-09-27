@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/couple-schedule-app/static/css/main.2b30de0b.css",
+    "main.js": "/couple-schedule-app/static/js/main.5a887475.js",
+    "static/js/453.257b5b58.chunk.js": "/couple-schedule-app/static/js/453.257b5b58.chunk.js",
+    "index.html": "/couple-schedule-app/index.html",
+    "main.2b30de0b.css.map": "/couple-schedule-app/static/css/main.2b30de0b.css.map",
+    "main.5a887475.js.map": "/couple-schedule-app/static/js/main.5a887475.js.map",
+    "453.257b5b58.chunk.js.map": "/couple-schedule-app/static/js/453.257b5b58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b30de0b.css",
+    "static/js/main.5a887475.js"
+  ]
+}
